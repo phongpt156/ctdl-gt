@@ -1,4 +1,4 @@
 # ctdl-gt
-```js
+```c
 Dạy giải thuật cho thanh niên Hiệp
 ```
